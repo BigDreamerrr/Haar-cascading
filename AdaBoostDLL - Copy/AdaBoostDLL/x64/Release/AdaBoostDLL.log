@@ -1,0 +1,9 @@
+﻿  adaboost.c
+D:\Extensions\AdaBoostDLL - Copy\AdaBoostDLL\numpy\npy_1_7_deprecated_api.h(14): warning Msg: Using deprecated NumPy API, disable it with #define NPY_NO_DEPRECATED_API NPY_1_7_API_VERSION
+     Creating library D:\Extensions\AdaBoostDLL - Copy\x64\Release\AdaBoostDLL.lib and object D:\Extensions\AdaBoostDLL - Copy\x64\Release\AdaBoostDLL.exp
+  Generating code
+  2 of 41 functions ( 4.9%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  AdaBoostDLL.vcxproj -> D:\Extensions\AdaBoostDLL - Copy\x64\Release\AdaBoostDLL.dll

@@ -1,0 +1,10 @@
+﻿  pch.cpp
+  adaboost.c
+D:\Extensions\AdaBoostDLL\AdaBoostDLL\numpy\npy_1_7_deprecated_api.h(14): warning Msg: Using deprecated NumPy API, disable it with #define NPY_NO_DEPRECATED_API NPY_1_7_API_VERSION
+D:\Extensions\AdaBoostDLL\AdaBoostDLL\adaboost.c(243,30): warning C4244: 'function': conversion from 'npy_intp' to 'int', possible loss of data
+D:\Extensions\AdaBoostDLL\AdaBoostDLL\adaboost.c(243,39): warning C4244: 'function': conversion from 'npy_intp' to 'int', possible loss of data
+D:\Extensions\AdaBoostDLL\AdaBoostDLL\adaboost.c(261,35): warning C4244: 'function': conversion from 'npy_intp' to 'int', possible loss of data
+D:\Extensions\AdaBoostDLL\AdaBoostDLL\adaboost.c(271,5): warning C4133: 'return': incompatible types - from 'PyArrayObject *' to 'PyObject *'
+D:\Extensions\AdaBoostDLL\AdaBoostDLL\adaboost.c(265,20): warning C4133: 'initializing': incompatible types - from 'PyObject *' to 'PyArrayObject *'
+  dllmain.cpp
+LINK : fatal error LNK1104: cannot open file 'python312_d.lib'
